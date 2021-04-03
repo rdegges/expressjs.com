@@ -12,7 +12,7 @@
   "dependencies": {
     "connect": "2.0.0",
     "commander": "0.5.2",
-    "mime": "1.2.5",
+    "mime": "1.6.0",
     "mkdirp": "0.3.0",
     "debug": "*"
   },
